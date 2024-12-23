@@ -1,2 +1,2 @@
 # API-Practice
-just implementation of some Rest API's
+just implementations of Rest API's 
